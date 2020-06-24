@@ -10,10 +10,6 @@ h1 {
   margin: 0;
   padding: 20px;
 }
-a {
-  text-decoration: none;
-  color: black;
-}
 ul {
   border-right: 1px solid gray;
   width: 100px;
